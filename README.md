@@ -1,4 +1,4 @@
-# Smart Robot Summer 2025
+# Smart Robot Sem 2 2025
 
 **Author:** Dave Mitchell Qiu  
 **Organization:** Innovation Central Perth
